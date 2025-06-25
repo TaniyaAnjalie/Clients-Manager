@@ -59,8 +59,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/clients-manager.git
-   cd clients-manager
-````
+   cd clients-manager````
 
 2. **Configure Database**
 
@@ -75,15 +74,13 @@ src/
    spring.datasource.username=root
    spring.datasource.password=
    spring.jpa.hibernate.ddl-auto=update
-   spring.jpa.show-sql=true
-   ```
+   spring.jpa.show-sql=true```
 
 4. **Run the app**
    You can use your IDE or:
 
    ```bash
-   mvn spring-boot:run
-   ```
+   mvn spring-boot:run ```
 
 5. **Visit**
 
